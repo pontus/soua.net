@@ -4,3 +4,8 @@ languageCode: en-us
 title: soua.net
 disableDisqusTypes: page
 theme: hyde
+
+params:
+  description: " "
+  themeColor: "theme-base-0b"
+
