@@ -1,0 +1,6 @@
+baseURL: ""
+disablePathToLower: true
+languageCode: en-us
+title: soua.net
+disableDisqusTypes: page
+theme: hyde
