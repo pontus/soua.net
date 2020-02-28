@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/pontus
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://soua.net
+  * I am pontus (https://keybase.io/pontus) on keybase.
+  * I have a public key ASBYncC-TgrKCrpORtploFZflPOgVVKXIMPG6rhRxKwzlwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120589dc0be4e0aca0aba4e46da65a0565f94f3a055529720c3c6eab851c4ac33970a",
+      "host": "keybase.io",
+      "kid": "0120589dc0be4e0aca0aba4e46da65a0565f94f3a055529720c3c6eab851c4ac33970a",
+      "uid": "0e0228c2833e6259600a0ec2c2cc8000",
+      "username": "pontus"
+    },
+    "merkle_root": {
+      "ctime": 1582924935,
+      "hash": "280f6498411ba60da5197879d83e9f3c58777a7b101196254ea795d2c666f292f08a4675dea0d7ad0ea4f2bdf4a130dc486d15966e9844e747cf0915db2a3708",
+      "hash_meta": "39f3f6eee52845be402bff2a72e62461a6f726c97df5708a5e840d4f8b5b3c60",
+      "seqno": 14807877
+    },
+    "service": {
+      "entropy": "tyS/igTenv4U3N3OlkNDICme",
+      "hostname": "soua.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1582924939,
+  "expire_in": 504576000,
+  "prev": "88fa3e5a1f19e2c5040f3128e35cce89ddb416bbb354d6f16fe55fc4421d4287",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWJ3Avk4Kygq6TkbaZaBWX5TzoFVSlyDDxuq4UcSsM5cKp3BheWxvYWTESpcCEMQgiPo+Wh8Z4sUEDzEo41zOid20FruzVNbxb+VfxEIdQofEIJF1OZFgpTnkVXBoYrPrWgKdpTSC9nMQ/5fCZTkPuwOHAgHCo3NpZ8RAtqhF6VN/6nbYD+YS93B1Cy35RxgEdbATUQPparuP3dr8ElqSVBEzmYxqDe8QvXIUH8wmJTyOuPitHCGRNDHQBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDNGI1qobKQwZVwmHxtzM/eHiogNlS5MRoauyqebtcACo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pontus
+
+==================================================================
+
